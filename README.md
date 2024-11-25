@@ -1,0 +1,1 @@
+# quick_var_assign_-
